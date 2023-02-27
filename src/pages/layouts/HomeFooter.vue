@@ -16,7 +16,9 @@
       <nav class="ud-nav ud-nav--footer ud-mb-25">
         <ul class="ud-nav-list">
           <li class="ud-nav__item">
-            <a class="ud-nav__link">Pixel Mine © 2022</a>
+            <a class="ud-nav__link">
+              Pixel Mine © {{ new Date().getFullYear() }}
+            </a>
           </li>
         </ul>
       </nav>

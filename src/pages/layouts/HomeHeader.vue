@@ -73,19 +73,6 @@ export default {
             </div>
 
             <div class="ud-nav__item">
-              <a href="#team" class="ud-nav__link">Team</a>
-            </div>
-
-            <div class="ud-nav__item">
-              <a
-                href="https://whitepaper.pixelmine.io"
-                target="_blank"
-                class="ud-nav__link"
-                >Whitepaper</a
-              >
-            </div>
-
-            <div class="ud-nav__item">
               <a
                 href="https://github.com/solidproof/projects/blob/main/PixelMine/SmartContract_Audit_Solidproof_PixelMine.pdf"
                 target="_blank"
@@ -141,15 +128,6 @@ export default {
 
           <div class="ud-nav__item js-mobile-menu-close">
             <a href="#team" class="ud-nav__link">Team</a>
-          </div>
-
-          <div class="ud-nav__item">
-            <a
-              href="https://whitepaper.pixelmine.io"
-              target="_blank"
-              class="ud-nav__link"
-              >Whitepaper</a
-            >
           </div>
 
           <div class="ud-nav__item">

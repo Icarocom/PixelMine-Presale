@@ -63,7 +63,7 @@ export default {
 
   methods: {
     makeTimer() {
-      var endTime = new Date("April 5, 2022 17:00:00 PDT");
+      var endTime = new Date("April 30, 2023 17:00:00 PDT");
       endTime = Date.parse(endTime) / 1000;
 
       var now = new Date();
