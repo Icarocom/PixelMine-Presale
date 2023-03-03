@@ -22,38 +22,6 @@
           </li>
         </ul>
       </nav>
-
-      <div class="ud-social-media">
-        <a href="#" target="_blank">
-          <div class="ud-social-media__item">
-            <i class="fab fa-discord"></i>
-          </div>
-        </a>
-
-        <a href="#" target="_blank">
-          <div class="ud-social-media__item">
-            <i class="fab fa-twitter"></i>
-          </div>
-        </a>
-
-        <a href="#" target="_blank">
-          <div class="ud-social-media__item">
-            <i class="fab fa-instagram"></i>
-          </div>
-        </a>
-
-        <a href="#" target="_blank">
-          <div class="ud-social-media__item">
-            <i class="fab fa-telegram"></i>
-          </div>
-        </a>
-
-        <a href="#" target="_blank">
-          <div class="ud-social-media__item">
-            <i class="fab fa-medium"></i>
-          </div>
-        </a>
-      </div>
     </div>
   </footer>
 </template>

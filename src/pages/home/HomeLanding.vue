@@ -381,40 +381,6 @@ import HomeFooter from "../layouts/HomeFooter.vue";
             features!
           </p>
         </div>
-
-        <div class="ud-join-community__btn-container">
-          <a
-            href="#"
-            target="_blank"
-            class="ud-join-community__btn ud-join-community__btn--discord"
-          >
-            <div class="ud-join-community__btn-icon ud-mr-10">
-              <i class="fab fa-discord"></i>
-            </div>
-            Discord
-          </a>
-          <a
-            href="#"
-            target="_blank"
-            class="ud-join-community__btn ud-join-community__btn--telegram"
-          >
-            <div class="ud-join-community__btn-icon ud-mr-10">
-              <i class="fab fa-telegram"></i>
-            </div>
-            Telegram
-          </a>
-
-          <a
-            href="#"
-            target="_blank"
-            class="ud-join-community__btn ud-join-community__btn--instagram"
-          >
-            <div class="ud-join-community__btn-icon ud-mr-10">
-              <i class="fab fa-instagram"></i>
-            </div>
-            Instagram
-          </a>
-        </div>
       </div>
     </div>
     <HomeFooter />
